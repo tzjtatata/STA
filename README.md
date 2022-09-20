@@ -2,7 +2,7 @@
 
 Author: Yuanze Li, Yiwen Guo, Qizhang Li, Hongzhi Zhang and Wangmeng Zuo
 
-Code release for "On Steering Multi-Annotations per Sample for Multi-task Learning"
+Code release for ["On Steering Multi-Annotations per Sample for Multi-task Learning"](https://arxiv.org/abs/2203.02946)
 
 Abstract:
 
